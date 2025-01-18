@@ -1,6 +1,6 @@
 # Foro Hub 🚀
 
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4.1-green)](https://spring.io/projects/spring-boot) [![Java](https://img.shields.io/badge/Java-21-orange)](https://www.oracle.com/java/) [![License](https://img.shields.io/badge/License-Apache%202.0-blue)](http://foro.hub/api/licencia)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4.1-green)](https://spring.io/projects/spring-boot) [![Java](https://img.shields.io/badge/Java-21-orange)](https://www.oracle.com/java/)
 
 ## 📖 Descripción
 Foro Hub es una API REST desarrollada en Spring Boot que permite gestionar un foro con funcionalidades CRUD para tópicos. La aplicación simula un espacio donde usuarios pueden:
